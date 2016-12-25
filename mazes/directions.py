@@ -1,0 +1,1 @@
+VISITED, NORTH, SOUTH, WEST, EAST = range(5)
