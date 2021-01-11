@@ -23,8 +23,8 @@ def cli(ctx, seed, start, width, height, thickness, preview):
         x = random.randint(0, width - 1)
         y = random.randint(0, height - 1)
     elif start == 'center':
-        x = width / 2
-        y = height / 2
+        x = width // 2
+        y = height // 2
     elif start == 'top-left':
         x = y = 0
     elif start == 'top-right':
