@@ -1,7 +1,7 @@
 # mazes
 
 <center>
-![Preview](https://github.com/saalaa/mazes/raw/master/preview.png)
+![Preview](https://raw.githubusercontent.com/saalaa/mazes/master/preview.png)
 </center>
 
 
